@@ -12,28 +12,28 @@
 }
 
 .p1{
-    background-image: url(img/img1.jpg);
+    background-image: url(img1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 .p2{
-    background-image: url(img/img2.jpg);
+    background-image: url(img2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 .p3{
-    background-image: url(img/img3.jpg);
+    background-image: url(img3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 .p4{
-    background-image: url(img/img4.jpg);
+    background-image: url(img4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
